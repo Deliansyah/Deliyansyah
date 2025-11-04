@@ -28,7 +28,7 @@ Fokus saya adalah memastikan setiap produk memiliki **kualitas terbaik**, bebas 
 
 ### 📈 Statistik GitHub
 ![Stats](https://github-readme-stats.vercel.app/api?username=namakamu&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namakamu&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deliyansyah&layout=compact&theme=tokyonight)
 
 ---
 
